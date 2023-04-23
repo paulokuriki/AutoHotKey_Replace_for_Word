@@ -1,0 +1,4 @@
+﻿Corpos vertebral;Corpos vertebrais
+Discos intervertebrais;Discos
+lombalgia;dor nas costas
+Musculatura paravertebral posterior;Partes moles
