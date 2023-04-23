@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # AutoHotKey_Replace_for_Word
 
 Repositório Contendo o exemplo do código utilizado na Aula de Aceleração de Laudos da JPR 2023
