@@ -4,12 +4,12 @@
 
 Repositório Contendo o exemplo do código utilizado na Aula de Aceleração de Laudos da JPR 2023
 
-## 1. Antes de começar, baixar e instale o AutoHotKey do site
+## 1. Você vai precisar do AutoHotKey. Baixe no site abaixo:
 
 [Homepage AutoHotKey](https://www.autohotkey.com/)
 
 ## 2. Depois, faça o download dos arquivos de exemplo:
-Para baixar o arquivo, clique sobre o ícone download.
+Clique sobre os três links abaixo e depois sobre o ícone download.
 
 ![Download icon](https://raw.githubusercontent.com/paulokuriki/AutoHotKey_Replace_for_Word/main/download_button.png)
 
@@ -19,17 +19,19 @@ Para baixar o arquivo, clique sobre o ícone download.
 
 ## 3. Os arquivos AHK são os arquivos que contém o código do script.
 
-Você pode clicar duas vezes para executá-lo ou editá-lo num editor como o notepad.
+Para executá-los, clique duas vezes sobre o arquivo. O AutoHotKey já deve estar previamente instalado.
 
 ## 4. O arquivo FindReplaceList.txt contém as frases a serem substituídas.
 
-Inclua novas frases separando com ; a frase a ser procurada pela frase a ser incluída
+Para incluir novas frases, edite o arquivo FindReplaceList.txt.
+
+Use **;** para separar a parte a ser procurada e o texto de substituição.
 
 **Exemplo:**
 
 `lombalgia;dor nas costas`
 
-**Atenção:** Como ambos os scripts foram associados à tecla F8, não recomendo abrir ambos ao mesmo tempo.
+**Atenção:** Como ambos os scripts foram associados à tecla F8, não recomendo abrir ambos ao mesmo tempo. Ou se preferir, edite o código e associe outra tecla de atalho.
 
 ## 5. Editando seu script
 
@@ -43,7 +45,7 @@ Se quiser aprender mais, recomendo começar pelo vídeo tutorial do Anders Jense
 
 [Tutorial Youtube](https://www.youtube.com/watch?v=YGtgN5mkWYs)
 
-[Documentação](https://www.autohotkey.com/docs/v2/)
+[Documentação Oficial do AutoHotKey](https://www.autohotkey.com/docs/v2/)
 
 ---
 
