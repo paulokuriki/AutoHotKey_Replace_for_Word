@@ -63,13 +63,15 @@ Then, move the focus to a window whose title is Chrome Web PACS. Paste it on thi
 `Create a script in AutoHotKey that runs every 1 second. This script must look for a window whose title is "Selecionar Máscara". It must click on the list object and after is has got foccus, press the key End to select the last item. Then it must press the OK button.`
 
 ### Criar um atalho ao clicar Shift+Ctrl+P que clica em uma sequência de coordenadas. Por exemplo, para ajustar o layout do PACS.
+
 Para isso, você usará o aplicativo WindowSpy acessível através do ícone do AutoHotKey perto do relógio do Windows. Posicione o mouse nos locais onde deseja e anote as coordenadas.
+
 `Create a script in AutoHotKey that runs every 1 second. This script must look for a window whose title is "Selecionar Máscara". It must click on the list object and after is has got foccus, press the key End to select the last item. Then it must press the OK button.`
 
 ### Gostei do meu script. Como faço para que ele seja executado toda vez que eu ligar meu computador.
 How can my AutoHotKey Script run automatically whenever I log on to my computer?
 
-### Gostei do meu script. Como faço para que ele seja executado toda vez que eu ligar meu computador.
+### Trabalho em várias unidades. Como enviar meu script para meu email?
 I work on many different computers. Write a script in AutoHotKey that opens my Gmail webpage in Chrome. Then it must attach the script "Meus Scripts Radiologia.ahk" located on my Desktop. The email must be sent to my personal email radiologista_conectado@gmail.com
 
 ## 8. Se você gosta de tecnologia e inovação na saúde, me siga no LinkedIn
