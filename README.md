@@ -16,8 +16,8 @@ Clique sobre os três links abaixo e depois sobre o ícone download.
 ![Download icon](https://raw.githubusercontent.com/paulokuriki/AutoHotKey_Replace_for_Word/main/download_button.png)
 
 - [FindReplaceList.txt](https://github.com/paulokuriki/AutoHotKey_Replace_for_Word/blob/main/FindReplaceList.txt)
-- [Script Replace for Notepad.ahk](https://github.com/paulokuriki/AutoHotKey_Replace_for_Word/blob/main/Script%20Replace%20for%20Notepad.ahk)
-- [Script Replace for Word.ahk](https://github.com/paulokuriki/AutoHotKey_Replace_for_Word/blob/main/Script%20Replace%20for%20Word.ahk)
+- [Replace_For_Notepad.ahk](https://raw.githubusercontent.com/paulokuriki/AutoHotKey_Replace_for_Word/main/Replace_for_Notepad.ahk)
+- [Replace_For_Word.ahk](https://raw.githubusercontent.com/paulokuriki/AutoHotKey_Replace_for_Word/main/Replace_For_Word.ahk)
 
 ## 3. Os arquivos AHK são os arquivos que contêm o código do script.
 
