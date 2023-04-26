@@ -1,4 +1,4 @@
-﻿Corpos vertebral;Corpos vertebrais
-Discos intervertebrais;Discos
-lombalgia;dor nas costas
-Musculatura paravertebral posterior;Partes moles
+﻿lombo algia;lombalgia
+Corpos vertebral;Corpos vertebrais
+pele quatro L5;L4-L5
+Musculatura para vertebral;Musculatura paravertebral
