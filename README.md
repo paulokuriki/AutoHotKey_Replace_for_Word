@@ -2,7 +2,13 @@
 
 # AutoHotKey Replace for Word
 
-Repositório Contendo o exemplo do código utilizado na Aula de Aceleração de Laudos da JPR 2023
+Repositório contendo o exemplo do código utilizado na Aula de Aceleração de Laudos da JPR 2023
+
+O objetivo deste repositório é mostrar como podemos aumentar a produtividade do radiologista, utilizando ferramentas de automação que executam  tarefas repetitivas. Neste exemplo, vamos utilizar o software de automação AutoHotKey para automatizar a correção de erros de ditado nos laudos. São duas versões do script, uma q funciona no Word e outra genérica baseada em copy-paste.
+
+Sinta-se livre para adaptar o código para suas necessidades. 
+
+No final deste documento, inseri algumas sugestões de prompts para o Chat GPT para que você possa criar novos scripts que resolvam outras dificuldades do seu dia-a-dia.
 
 ## 1. Baixe e instale o AutoHotKey.
 
